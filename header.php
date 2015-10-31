@@ -231,7 +231,7 @@
 				</ul>
 			  
 				<ul id="nav-mobile" class="side-nav" style="width: 240px;">
-					<li class="logo"><a id="logo-container" href="index.html" class="brand-logo">
+					<li class="logo"><a id="logo-container" href="index.php" class="brand-logo">
 						<object id="front-page-logo" type="image/png" data="img/minilogo.png">minilogo</object></a></li>
 					<li class="search">
 					  <div class="search-wrapper card">
@@ -245,8 +245,8 @@
 						  <div class="collapsible-body" style="">
 							 <ul>
                               <li><a class="scroll" href="#novedades">Todas</a></li>
-							  <li><a href="noticias.html">Noticias</a></li>
-							  <li><a href="viejos.html">Viejos son los trapos</a></li>	
+							  <li><a href="noticias.php">Noticias</a></li>
+							  <li><a href="viejos.php">Viejos son los trapos</a></li>	
                               <li><a href="lecturas.php">Lecturas</a></li>	
                               </ul>
 						  </div>
@@ -256,16 +256,16 @@
 						  <div class="collapsible-body" style="">
 							<ul>
                               <li><a class="scroll" href="#especies">Todas</a></li>
-							  <li><a  href="exoticas.html">Exoticas</a></li>
-							  <li><a  href="maltrato.html">Maltrato de Animales</a></li>
-							  <li><a  href="migato.html">Mi Gato</a></li>
-							  <li><a  href="miperro.html">Mi Perro</a></li>
-							  <li><a  href="insectos.html">Insectos</a></li>
-							  <li><a  href="especiespro.html">Especies Protegidas</a></li>
-							  <li><a  href="caballos.html">Caballos</a></li>
-							  <li><a  href="aves.html">Aves</a></li>
-							  <li><a  href="zoovirtual.html">Zoo Virtual</a></li>
-							  <li><a  href="curiosidadesespecies.html">Curiosidades</a></li>
+							  <li><a  href="exoticas.php">Exoticas</a></li>
+							  <li><a  href="maltrato.php">Maltrato de Animales</a></li>
+							  <li><a  href="migato.php">Mi Gato</a></li>
+							  <li><a  href="miperro.php">Mi Perro</a></li>
+							  <li><a  href="insectos.php">Insectos</a></li>
+							  <li><a  href="especiespro.php">Especies Protegidas</a></li>
+							  <li><a  href="caballos.php">Caballos</a></li>
+							  <li><a  href="aves.php">Aves</a></li>
+							  <li><a  href="zoovirtual.php">Zoo Virtual</a></li>
+							  <li><a  href="curiosidadesespecies.php">Curiosidades</a></li>
                             </ul>
 						  </div>
 						</li>
@@ -273,12 +273,12 @@
 						  <div class="collapsible-body" style="">
 							<ul>
                               <li><a class="scroll" href="#recursos">Todos</a></li>
-							  <li><a href="energia.html">Energia</a></li>
-							  <li><a href="agua.html">Agua</a></li>
-							  <li><a href="biotenologia.html">Biotenología</a></li>
-							  <li><a href="gas.html">gas</a></li>
-							  <li><a href="plantas.html">Plantas Medicinales</a></li>
-							  <li><a href="bosques.html">Bosques</a></li>						
+							  <li><a href="energia.php">Energia</a></li>
+							  <li><a href="agua.php">Agua</a></li>
+							  <li><a href="biotenologia.php">Biotenología</a></li>
+							  <li><a href="gas.php">gas</a></li>
+							  <li><a href="plantas.php">Plantas Medicinales</a></li>
+							  <li><a href="bosques.php">Bosques</a></li>						
                             </ul>
 						  </div>
 						</li>
@@ -286,13 +286,13 @@
 						  <div class="collapsible-body" style="">
 							<ul>
                               <li><a class="scroll" href="#medioambiente">Todos</a></li>
-							  <li><a href="reciclado.html">Reciclado</a></li>
-							  <li><a href="cambio.html">Cambio Climático</a></li>
+							  <li><a href="reciclado.php">Reciclado</a></li>
+							  <li><a href="cambio.php">Cambio Climático</a></li>
 							  <li><a class="scroll" href="#Ecologia">Ecología</a></li>
-							  <li><a href="areas.html">Areas Protegidas</a></li>
-							  <li><a href="ecoturismo.html">Eco Turismo</a></li>
-							  <li><a href="botanico.html">Botánico</a></li>
-                              <li><a href="baterias.html">Baterías y Pilas</a></li>
+							  <li><a href="areas.php">Areas Protegidas</a></li>
+							  <li><a href="ecoturismo.php">Eco Turismo</a></li>
+							  <li><a href="botanico.php">Botánico</a></li>
+                              <li><a href="baterias.php">Baterías y Pilas</a></li>
                             </ul>
 						  </div>
 						</li>
@@ -300,11 +300,11 @@
 						  <div class="collapsible-body" style="">
 							<ul>
                               <li><a class="scroll" href="planeta">Todo</a></li>
-							  <li><a href="paises.html">Paises</a></li>
-							  <li><a href="planetarios.html">Planetarios</a></li>
-							  <li><a href="efemerides.html">Efemerides y Personajes</a></li>
-							  <li><a href="elespacio.html">El Espacio</a></li>
-							  <li><a href="curiosidadesplaneta.html">Curiosidades</a></li>				
+							  <li><a href="paises.php">Paises</a></li>
+							  <li><a href="planetarios.php">Planetarios</a></li>
+							  <li><a href="efemerides.php">Efemerides y Personajes</a></li>
+							  <li><a href="elespacio.php">El Espacio</a></li>
+							  <li><a href="curiosidadesplaneta.php">Curiosidades</a></li>				
                             </ul>
 						  </div>
 						</li>
@@ -313,8 +313,8 @@
 						  <div class="collapsible-body" style="">
 							<ul>
                               <li><a class="scroll" href="#multimedia">Todo</a></li>
-							  <li><a href="fotos.html">Fotos</a></li>
-							  <li><a href="videos.html">Videos</a></li>						 
+							  <li><a href="fotos.php">Fotos</a></li>
+							  <li><a href="videos.php">Videos</a></li>						 
                               </ul>
 						  </div>
 						</li>
@@ -323,7 +323,7 @@
                           
 					  </ul>
 					</li>					
-					<li class="bold"><a href="contacto.html" class="waves-effect waves-teal">Contacto</a></li>
+					<li class="bold"><a href="contacto.php" class="waves-effect waves-teal">Contacto</a></li>
 					
 				</ul>
 			</div>

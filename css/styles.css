@@ -415,4 +415,9 @@ footer.page-footer {
 .pagination.centrado{
 
 	margin-left: 40%;
+	
+}
+p, .conMargen{
+	margin-left: 3%;
+    margin-right: 5%;
 }

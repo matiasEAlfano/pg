@@ -25,47 +25,47 @@
 						        <tbody>
 						          <tr>
 						            <td>1</td>
-						            <td><a href="/despedidaCocaCola">Despedida del presidente de la Coca Cola</a></td>
+						            <td><a href="./despedidaCocaCola.php">Despedida del presidente de la Coca Cola</a></td>
 						            <td>3543</td>
 						          </tr>
 						          <tr>
 						            <td>2</td>
-						            <td><a href="/cartaFavaloro">Carta póstuma de René Favoloro</a></td>
+						            <td><a href="./cartaFavaloro.php">Carta póstuma de René Favoloro</a></td>
 						            <td>109987</td>
 						          </tr>
 						          <tr>
 						            <td>3</td>
-						            <td><a href="/aprendamosdelaguila">Aprendamos del águila</a></td>
+						            <td><a href="./aprendamosdelaguila.php">Aprendamos del águila</a></td>
 						            <td>8762</td>
 						          </tr>
 						           <tr>
 						            <td>1</td>
-						            <td><a href="/despedidaCocaCola">Despedida del presidente de la Coca Cola</a></td>
+						            <td><a href="/despedidaCocaCola.php">Despedida del presidente de la Coca Cola</a></td>
 						            <td>3543</td>
 						          </tr>
 						          <tr>
 						            <td>2</td>
-						            <td><a href="/cartaFavaloro">Carta póstuma de René Favoloro</a></td>
+						            <td><a href="/cartaFavaloro.php">Carta póstuma de René Favoloro</a></td>
 						            <td>109987</td>
 						          </tr>
 						          <tr>
 						            <td>3</td>
-						            <td><a href="/aprendamosdelaguila">Aprendamos del águila</a></td>
+						            <td><a href="./aprendamosdelaguila.php">Aprendamos del águila</a></td>
 						            <td>8762</td>
 						          </tr>
 						           <tr>
 						            <td>1</td>
-						            <td><a href="/despedidaCocaCola">Despedida del presidente de la Coca Cola</a></td>
+						            <td><a href="./despedidaCocaCola.php">Despedida del presidente de la Coca Cola</a></td>
 						            <td>3543</td>
 						          </tr>
 						          <tr>
 						            <td>2</td>
-						            <td><a href="/cartaFavaloro">Carta póstuma de René Favoloro</a></td>
+						            <td><a href="./cartaFavaloro.php">Carta póstuma de René Favoloro</a></td>
 						            <td>109987</td>
 						          </tr>
 						          <tr>
 						            <td>3</td>
-						            <td><a href="/aprendamosdelaguila">Aprendamos del águila</a></td>
+						            <td><a href="./aprendamosdelaguila.php">Aprendamos del águila</a></td>
 						            <td>8762</td>
 						          </tr>
 						        </tbody>
