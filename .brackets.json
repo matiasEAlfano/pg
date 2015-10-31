@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/var/www/html/geo/geo12/js/init.js",
+        "/var/www/html/geo/js/scripts.js"
+    ]
+}
