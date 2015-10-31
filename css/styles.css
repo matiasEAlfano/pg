@@ -1,3 +1,9 @@
+#id-radio1{
+	width:100%; padding-left:0; margin-bottom:50px;
+}
+.col-izq .divider{
+	margin-bottom:20px;
+}
 .col-top-0{
     margin-top:0;
     background-color:#F0F0F5;
@@ -18,13 +24,20 @@
 .btn100{
  width: 100%;   
 }
-#olvidaste{
-   /* margin-left: 41px; */
-}
+
 #recordar-pad{
-    padding-left: 6px;
+    padding-left: 19px;
     margin-top: 0px;
     margin-bottom: 20px;
+    text-align: left;
+}
+
+#olvidaste{
+	text-align:center;
+}
+
+.btn12{
+	font-size:12px;
 }
 
 .btn-face{

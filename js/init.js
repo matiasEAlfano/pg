@@ -1,5 +1,20 @@
 $(function(){
 
+	var openModal=function(url){
+		var opciones="toolbar=no,location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=yes, width=508, height=365, top=100, left=230"; 
+		window.open(url,"",opciones); 
+	} 
+
+	
+	
+	$(".radio-online").click(function( event ){
+		event.preventDefault();	
+		openModal('http://alsolnet.com/stream/radiogeo');
+	});
+	
+	
+		
+	
 
     $('.modal-trigger').leanModal();
 	 $('.datepicker').pickadate({
@@ -169,6 +184,8 @@ $(function(){
       closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
     }
   );
+
+	
 
 	
 	/*

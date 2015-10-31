@@ -8,85 +8,268 @@
 		
 			<div class="row">
 				
-				<div class="col s3 m3 l3">
+				<div class="col s6 m3 l3 col-izq">
                     <div class="row">
 						<div class="col s12 m12 l12">
 							<h1 class="flow-text header header-izq">LO ÚLTIMO</h1>
 						</div>
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
 					<div class="row">
-						<div class="col s6 m6 l6">
+						<div class="col l6 hide-on-med-and-down">
 							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
 						</div>
-						<div class="col s6 m6 l6 flow-text">
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
 							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
 						</div>
 					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					<div class="divider"></div>
+					<div class="row">
+						<div class="col l6 hide-on-med-and-down">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col s12 m12 hide-on-large-only">
+							<img src="img/curiosidades.jpg" alt="" class="circle responsive-img">
+						</div>
+						<div class="col l6 flow-text hide-on-med-and-down">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+						<div class="col s12 m12 flow-text hide-on-large-only">
+							<h6>Santa Cruz: cayó una avión de Gendarmería y murieron los dos pilotos</h6>
+						</div>
+					</div>
+					
 				</div>
 				
-                <div class="col s7 m7 l7">
+                <div class="col s6 m7 l7">
                     <div class="row hide-on-small-only">
 						<div class="col col-slider s12 m12 l12">
 							<div class="slider">
@@ -120,9 +303,9 @@
 					<!-- ***** NOVEDADES ***** -->
 					<div id="novedades" class="row">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Novedades</h2>
+							<h2 class="flow-text header header-card">Novedades</h2>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -137,7 +320,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -152,7 +335,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -169,13 +352,19 @@
 						</div> <!-- fin col-->
 					</div> <!-- fin row-->
                 
+					<!-- ***** PUBLICIDAD MOBILE ***** -->
+					<div class="row hide-on-large-only">
+						<div class="col s12 m12">													
+							<a href="#!" class="radio-online"><img src="publi/envivo.gif" style="width:100%" alt="" class="responsive-img"></a>
+						</div>						
+					</div>
 					
 					<!-- ***** ESPECIES ***** -->
 					<div id="especies" class="row">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Especies</h2>
+							<h2 class="flow-text header header-card">Especies</h2>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -190,7 +379,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -205,7 +394,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -221,13 +410,24 @@
 							</div>
 						</div> <!-- fin col-->
 					</div> <!-- fin row-->
+					
+					<!-- ***** PUBLICIDAD MOBILE ***** -->
+					<div class="row hide-on-large-only">
+						<div class="col s12 m12">
+							<img src="publi/300x300-arba.gif" style="width:100%" alt="" class="responsive-img">
+						</div>
+						<div class="col s12 m12">
+							<img src="publi/gba.jpg" style="width:100%" alt="" class="responsive-img">
+						</div>						
+					</div>
+					
 					
 					<!-- ***** RECURSOS NATURALES ***** -->
 					<div id="recursos" class="row">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Recursos Naturales</h2>
+							<h2 class="flow-text header header-card">Recursos Naturales</h2>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -242,7 +442,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -257,7 +457,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -274,12 +474,22 @@
 						</div> <!-- fin col-->
 					</div> <!-- fin row-->
 					
+					<!-- ***** PUBLICIDAD MOBILE ***** -->
+					<div class="row hide-on-large-only">
+						<div class="col s12 m12">
+							<img src="publi/mavi.gif" style="width:100%" alt="" class="responsive-img">
+						</div>
+						<div class="col s12 m12">
+							<img src="publi/salvador.jpg" style="width:100%" alt="" class="responsive-img">
+						</div>						
+					</div>
+					
 					<!-- ***** MEDIO AMBIENTE ***** -->
 					<div id="medioambiente" class="row">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Medio Ambiente</h2>
+							<h2 class="flow-text header header-card">Medio Ambiente</h2>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -294,7 +504,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -309,7 +519,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -329,9 +539,9 @@
 					<!-- ***** PLANETA ***** -->
 					<div id="planeta" class="row">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Planeta</h2>
+							<h2 class="flow-text header header-card">Planeta</h2>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -346,7 +556,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -361,7 +571,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -381,9 +591,9 @@
 					<!-- ***** MULTIMEDIA ***** -->
 					<div id="multimedia" class="row">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Multimedia</h2>
+							<h2 class="flow-text header header-card">Multimedia</h2>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -398,7 +608,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -413,7 +623,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
-						<div class="col s6 m4 l4">
+						<div class="col s12 m4 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
 								  <img class="activator" src="img/zoovirtual.jpg">
@@ -432,18 +642,20 @@
 				
 				</div> <!-- fin col-s7-m7-l7-->
 				
-				<div class="col s2 m2 l2">
+				<div class="col m2 l2 hide-on-small-only">
                     <div class="row">
-						<div class="col s12 m12 l12">
+						<div class="col m12 l12">
 							<div class="toc-wrapper">
 								
 								
 								  <div class="section table-of-contents center">
+									<a href="#" id="id-radio1" class="radio-online"><img src="publi/envivo.gif" style="width:100%" alt="" class="responsive-img"></a>									
 									<img src="publi/300x300-arba.gif" style="width:100%" alt="" class="responsive-img">
 									<img src="publi/gba.jpg" style="width:100%" alt="" class="responsive-img">
-									<!--<img src="publi/mavi.gif" style="width:100%" alt="" class="responsive-img">-->
-                                    <img src="publi/salvador.jpg" style="width:100%" alt="" class="responsive-img"> 
-                                    <!--<img src="publi/911.jpg" style="width:80%" alt="" class="responsive-img">-->
+									
+									<!--<img src="publi/mavi.gif" style="width:100%" alt="" class="responsive-img"> -->
+                                    <!--<img src="publi/salvador.jpg" style="width:100%" alt="" class="responsive-img"> -->
+                                     <!-- <img src="publi/911.jpg" style="width:80%" alt="" class="responsive-img">-->
 										
 								  </div>
 								
