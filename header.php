@@ -247,7 +247,7 @@
                               <li><a class="scroll" href="#novedades">Todas</a></li>
 							  <li><a href="noticias.html">Noticias</a></li>
 							  <li><a href="viejos.html">Viejos son los trapos</a></li>	
-                              <li><a href="lecturas.html">Lecturas</a></li>	
+                              <li><a href="lecturas.php">Lecturas</a></li>	
                               </ul>
 						  </div>
 						</li>                    
