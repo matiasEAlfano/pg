@@ -31,6 +31,7 @@
 								data-adapt-container-width="true" data-hide-cover="false" 
 								data-show-facepile="false" data-show-posts="false">
 							</div>
+							
 						  <br>
 						  <div class="googleplus">
 						  </div>
@@ -62,6 +63,7 @@
 	<!--  <script type="text/javascript" src="js/material.js"></script>  -->
 	  <script type="text/javascript" src="js/materialize.js"></script> 
 	  <script type="text/javascript" src="js/init.js"></script>
+	  <script type="text/javascript" src="js/scroll.js"></script>
 	 <!-- <script type="text/javascript" src="js/scripts.js"></script>-->
 	  
     </body>

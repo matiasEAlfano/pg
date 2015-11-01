@@ -188,7 +188,7 @@
 			
 			<div class="nav-wrapper">
 			
-                <a href="index.php#" class="brand-logo brand-logo-lat hide-on-med-and-up"><img id ="img-logoo1" src="img/logoo1.png" alt="logo"></a>
+                <a href="index2.php#" class="brand-logo brand-logo-lat hide-on-med-and-up"><img id ="img-logoo1" src="img/logoo1.png" alt="logo"></a>
 				
 				
 
@@ -196,12 +196,12 @@
 				
 				<ul class="left left-nav hide-on-small-only">			
 				
-				<li id="mnu-home" style="margin-left:15px;"><a class="scroll" href="index.php#novedades">Novedades</a></li>			
-				<li id="mnu-especies"><a class="scroll" href="index.php#especies">Especies</a></li>
-				<li id="mnu-recursos"><a class="scroll" href="index.php#recursos">Recursos Naturales</a></li>
-				<li id="mnu-medioambiente"><a class="scroll" href="index.php#medioambiente">Medio Ambiente</a></li>
-				<li id="mnu-planeta"><a class="scroll" href="index.php#planeta">Planeta</a></li>
-				<li id="mnu-multimedia"><a class="scroll" href="index.php#multimedia">Multimedia</a></li>
+				<li id="mnu-home" style="margin-left:15px;"><a class="scroll" href="index2.php#novedades">Novedades</a></li>			
+				<li id="mnu-especies"><a class="scroll" href="index2.php#especies">Especies</a></li>
+				<li id="mnu-recursos"><a class="scroll" href="index2.php#recursos">Recursos Naturales</a></li>
+				<li id="mnu-medioambiente"><a class="scroll" href="index2.php#medioambiente">Medio Ambiente</a></li>
+				<li id="mnu-planeta"><a class="scroll" href="index2.php#planeta">Planeta</a></li>
+				<li id="mnu-multimedia"><a class="scroll" href="index2.php#multimedia">Multimedia</a></li>
 				<li id="mnu-contacto2" class="scroll"><a href="contacto.php"><i class="material-icons">email</i></a></li>
 				
                 </ul>
@@ -219,7 +219,7 @@
 				</ul>
 			  
 				<ul id="nav-mobile" class="side-nav" style="width: 240px;">
-					<li class="logo"><a id="logo-container" href="index.php" class="brand-logo">
+					<li class="logo"><a id="logo-container" href="index2.php" class="brand-logo">
 						<object id="front-page-logo" type="image/png" data="img/minilogo.png">minilogo</object></a></li>
 					<li class="search">
 					  <div class="search-wrapper card">
@@ -232,7 +232,7 @@
 						<li class="bold"><a class="collapsible-header  waves-effect waves-teal">Novedades</a>
 						  <div class="collapsible-body" style="">
 							 <ul>
-                              <li><a class="scroll" href="index.php#novedades">Todas</a></li>
+                              <li><a class="scroll" href="index2.php#novedades">Todas</a></li>
 							  <li><a href="noticias.php">Noticias</a></li>
 							  <li><a href="viejos.php">Viejos son los trapos</a></li>	
                               <li><a href="lecturas.php">Lecturas</a></li>	
@@ -243,7 +243,7 @@
 						<li class="bold"><a class="collapsible-header  waves-effect waves-teal">Especies</a>
 						  <div class="collapsible-body" style="">
 							<ul>
-                              <li><a class="scroll" href="index.php#especies">Todas</a></li>
+                              <li><a class="scroll" href="index2.php#especies">Todas</a></li>
 							  <li><a  href="exoticas.php">Exoticas</a></li>
 							  <li><a  href="maltrato.php">Maltrato de Animales</a></li>
 							  <li><a  href="migato.php">Mi Gato</a></li>
@@ -260,7 +260,7 @@
 						<li class="bold"><a class="collapsible-header  waves-effect waves-teal">Recursos Naturales</a>
 						  <div class="collapsible-body" style="">
 							<ul>
-                              <li><a class="scroll" href="index.php#recursos">Todos</a></li>
+                              <li><a class="scroll" href="index2.php#recursos">Todos</a></li>
 							  <li><a href="energia.php">Energia</a></li>
 							  <li><a href="agua.php">Agua</a></li>
 							  <li><a href="biotenologia.php">Biotenología</a></li>
@@ -273,7 +273,7 @@
                         <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Medio Ambiente</a>
 						  <div class="collapsible-body" style="">
 							<ul>
-                              <li><a class="scroll" href="index.php#medioambiente">Todos</a></li>
+                              <li><a class="scroll" href="index2.php#medioambiente">Todos</a></li>
 							  <li><a href="reciclado.php">Reciclado</a></li>
 							  <li><a href="cambio.php">Cambio Climático</a></li>
 							  <li><a href="ecologia.php">Ecología</a></li>
@@ -287,7 +287,7 @@
                          <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Planeta</a>
 						  <div class="collapsible-body" style="">
 							<ul>
-                              <li><a class="scroll" href="index.php#planeta">Todo</a></li>
+                              <li><a class="scroll" href="index2.php#planeta">Todo</a></li>
 							  <li><a href="paises.php">Paises</a></li>
 							  <li><a href="planetarios.php">Planetarios</a></li>
 							  <li><a href="efemerides.php">Efemerides y Personajes</a></li>
@@ -300,7 +300,7 @@
 						 <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Multimedia</a>
 						  <div class="collapsible-body" style="">
 							<ul>
-                              <li><a class="scroll" href="index.php#multimedia">Todo</a></li>
+                              <li><a class="scroll" href="index2.php#multimedia">Todo</a></li>
 							  <li><a href="fotos.php">Fotos</a></li>
 							  <li><a href="videos.php">Videos</a></li>						 
                               </ul>
@@ -323,7 +323,7 @@
 		<div class="container container-tit hide-on-small-only">
 			<div class="row">
                 <div class="col s12 m6">
-					<a href="index.php" class="brand-logo hide-on-small-only"><img src="img/logo1_ori.png" alt="logo"></a>
+					<a href="#" class="brand-logo hide-on-small-only"><img src="img/logo1_ori.png" alt="logo"></a>
 				</div>
 				<div class="col m6">
 					<a class="brand-logo hide-on-small-only radio-online"><img src="img/logo2_ori.png" alt="logo"></a>

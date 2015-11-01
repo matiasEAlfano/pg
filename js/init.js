@@ -163,12 +163,35 @@ $(function(){
 
 
 	 // vertical scroll
-	$('a.scroll').click(function(e){
+/*
+	 $('a.scroll').click(function(e){
 		e.preventDefault();	
-		$('html, body').stop().animate({scrollTop: $($(this).attr('href')).offset().top-70}, 500);
+		var href = $(this).attr('href');
+		var file, n;
+
+		file = window.location.pathname;
+		n = file.lastIndexOf('/');
+		file = file.substring(n + 1);
+		if (file!="index2.php"){			
+			 $('html, body').scrollTop(0).show();
+			$('html, body').stop().animate({scrollTop: $($(this).attr('href')).offset().top-70}, 500);
+		}
 	});
 	
-	  
+	*/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	 
 	  
     // Plugin initialization
     $('.slider').slider({

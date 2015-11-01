@@ -1,14 +1,16 @@
 ul, form, nav{
 }
-	@media only screen and (min-width: 1px) {
+	@media only screen and (min-width: 1px) and (max-width: 600px) {
 			ul form, nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-			height: 56px;
-			line-height: 56px;
-			}
-			/*#nav-ppal{
-				height:inherit;
-				line-height:inherit;
-			}*/
+			height: 55px;
+			line-height: 55px;
+			}			
+		}
+	@media only screen and (min-width: 601px) {
+			ul form, nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+			height: 40px;
+			line-height: 40px;
+			}			
 		}
 	@media only screen and (min-width : 993px) {
 			nav a.button-collapse {
@@ -91,13 +93,23 @@ ul, form, nav{
 			/*background-color:#72AE72;*/
 			background-color:rgb(52, 107, 112);
 			background:a;
+			height: 56px;
 		}
+		.fixed-action-btn{
+			top: 9px; right: 25px;
+		} 
     }
 	
 	@media only screen and (min-width: 601px) {
+		.navbar-fixed{
+			    height: 34px;
+		}
         #nav-ppal{
 			background-color: rgba(11, 85, 65, 0.75);
 		}
+		.fixed-action-btn{
+			top: 1px; right: 25px;
+		} 
     }
 	
 
