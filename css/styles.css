@@ -478,3 +478,21 @@ a{
 	background-color:rgba(0, 0, 0, 0.13);
 	padding-top:10px;
 }
+
+.fixed-action-btn.btn-up{
+			bottom: 50px; right: 100px;
+		} 
+
+.btn-floating.btn-super-large {
+    width: 100.5px;
+    height: 100.5px;
+}
+
+.btn-floating.btn-super-large i {
+    width: inherit;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    font-size: 4.6rem;
+    line-height: 60px;
+}

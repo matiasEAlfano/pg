@@ -269,7 +269,7 @@
 					</div> <!-- fin row-->
                 
 					<!-- ***** PUBLICIDAD MOBILE ***** -->
-					<div class="row hide-on-med-and-up">
+					<div class="row hide-on-med-and-up row-publi">
 						<div class="col s12 m12">													
 							<a href="#!" class="radio-online"><img src="publi/envivo.gif" style="width:100%" alt="" class="responsive-img"></a>
 						</div>						
@@ -331,13 +331,10 @@
 					</div> <!-- fin row-->
 					
 					<!-- ***** PUBLICIDAD MOBILE ***** -->
-					<div class="row hide-on-med-and-up">
+					<div class="row hide-on-med-and-up row-publi">
 						<div class="col s12 m12">
 							<img src="publi/300x300-arba.gif" style="width:100%" alt="" class="responsive-img">
-						</div>
-						<div class="col s12 m12">
-							<img src="publi/gba.jpg" style="width:100%" alt="" class="responsive-img">
-						</div>						
+						</div>													
 					</div>
 					
 					
@@ -397,13 +394,10 @@
 					</div> <!-- fin row-->
 					
 					<!-- ***** PUBLICIDAD MOBILE ***** -->
-					<div class="row hide-on-med-and-up">
+					<div class="row hide-on-med-and-up row-publi">
 						<div class="col s12 m12">
 							<img src="publi/mavi.gif" style="width:100%" alt="" class="responsive-img">
-						</div>
-						<div class="col s12 m12">
-							<img src="publi/salvador.jpg" style="width:100%" alt="" class="responsive-img">
-						</div>						
+						</div>													
 					</div>
 					
 					<!-- ***** MEDIO AMBIENTE ***** -->
@@ -461,6 +455,13 @@
 						</div> <!-- fin col-->
 					</div> <!-- fin row-->
 					
+					<!-- ***** PUBLICIDAD MOBILE ***** -->
+					<div class="row hide-on-med-and-up row-publi">								
+						<div class="col s12 m12">
+							<img src="publi/gba.jpg" style="width:100%" alt="" class="responsive-img">
+						</div>						
+					</div>
+			
 					<!-- ***** PLANETA ***** -->
 					<div id="planeta" class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
@@ -515,7 +516,14 @@
 							</div>
 						</div> <!-- fin col-->
 					</div> <!-- fin row-->				
-										
+					
+					<!-- ***** PUBLICIDAD MOBILE ***** -->
+					<div class="row hide-on-med-and-up row-publi">								
+						<div class="col s12 m12">
+							<img src="publi/salvador.jpg" style="width:100%" alt="" class="responsive-img">
+						</div>						
+					</div>	
+					
 					<!-- ***** MULTIMEDIA ***** -->
 					<div id="multimedia" class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
@@ -597,6 +605,12 @@
 				 
             </div> <!-- fin row-del-container-ppal-->
 			
+			<div class="fixed-action-btn btn-up hide-on-small-only">
+				<a href="index.php#" class="btn-floating  btn-super-large blue darken-4">
+					<i class="large material-icons">keyboard_arrow_up
+					</i>
+				</a>		
+			</div>
             
 		</div> <!-- fin container-ppal-->
         </main>
