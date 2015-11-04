@@ -33,6 +33,41 @@ $('html').css({display: 'none'});
 		return false;
 	});
 	
+    
+    $('#back-to-top').css("display","none");
+    
+    $(window).scroll(function() {
+      
+        
+        
+		var navTam = $('#nav-ppal').height();
+		
+		/*
+        var tamMax= $('body').height() - $('.page-footer').height() - $(window).height();
+            if ($(this).scrollTop()>navTam && $(this).scrollTop()< tamMax) {
+                $('#back-to-top:hidden').stop(true, true).fadeIn();
+            } else {
+                $('#back-to-top').stop(true, true).fadeOut();
+			}        
+		*/
+		
+		
+		if ($(this).scrollTop()>navTam) {
+			$('#back-to-top:hidden').stop(true, true).fadeIn();
+			} else {
+				$('#back-to-top').stop(true, true).fadeOut();
+			}
+	});
+    
+     $('#back-to-top').click(function(e){
+        e.preventDefault();
+       $('html, body').stop().animate({
+            scrollTop: 0
+            }, 500, 'linear');
+            return false;
+     });
+    
+    
 	displayit();
 	
 })(jQuery)

@@ -95,20 +95,29 @@ ul, form, nav{
 			background:a;
 			height: 56px;
 		}
-		.navbar-fixed .fixed-action-btn{
-			top: 9px; right: 25px;
+		#btn-login-nav{
+			padding-top:0px;
+			margin-right:20px;
+			margin-top:10px;
+			
 		} 
+		#btn-login-nav i{
+			height: 41px;
+			line-height: 41px;
+		}
     }
 	
 	@media only screen and (min-width: 601px) {
 		.navbar-fixed{
-			    height: 34px;
+			    height: 4px;
 		}
         #nav-ppal{
 			background-color: rgba(11, 85, 65, 0.75);
 		}
-		.navbar-fixed .fixed-action-btn{
-			top: 1px; right: 25px;
+		#btn-login-nav{
+			padding-top:0px;
+			margin-right:20px;
+		
 		} 
     }
 	
@@ -404,3 +413,113 @@ ul, form, nav{
         }
         
     }
+	
+.fixed-action-btn.btn-up{		
+	} 	
+	@media only screen and (min-width: 601px) and (max-width: 1023px) {
+        .btn-floating.btn-super-large {
+			width: 40.5px;
+			height: 40.5px;        
+		}
+		.btn-floating.btn-super-large i {
+			font-size: 2.6rem;
+			line-height: 31px;
+		}
+	}
+	@media only screen and (min-width: 1024px) {
+        .btn-floating.btn-super-large {
+			width: 80.5px;
+			height: 80.5px;        
+		}		
+
+		.btn-floating.btn-super-large i {		
+			font-size: 5.6rem;
+			line-height: 60px;    
+		}
+	}
+#modal-contact, #modal-contact.modal-content{
+}
+	@media only screen and (min-width: 1px) and (max-width: 600px) {
+        #modal-contact, #modal-contact.modal-content{            
+            max-width:95%;
+            width:95%;
+
+        }
+	}
+
+    @media only screen and (min-width: 601px) and (max-width: 1023px) {
+        #modal-contact, #modal-contact.modal-content{            
+            max-width:85%;
+            width:85%;
+
+        }
+	}
+
+      @media only screen and (min-width: 1024px){
+        #modal-contact, #modal-contact.modal-content{            
+            max-width:70%;
+            width:70%;
+
+        }
+	}   
+
+.container-media {
+    margin: 0 auto;
+    max-width: 1280px;   
+}
+    @media only screen and (min-width: 1px) and (max-width: 600px) {
+        .container-media{                        
+            width:100%;
+        }
+	}
+
+    @media only screen and (min-width: 601px) and (max-width: 1023px) {
+        .container-media{                          
+            width:85%;
+        }
+	}
+
+      @media only screen and (min-width: 1024px){
+        .container-media{               
+             width: 70%;
+        }
+	}   
+
+.card {
+    
+}
+    @media only screen and (min-width: 1px) and (max-width: 600px) {
+        .card{                        
+            font-size:12px;            
+        }
+        .card-content i {
+            display:none;
+        }
+        .card-reveal i{
+            display:none;
+        }
+	}
+
+    @media only screen and (min-width: 601px) and (max-width: 1023px) {
+        .card{                          
+            font-size:13px;
+        }
+        .card-content i {
+            display:inherit;
+        }
+        .card-reveal i{
+            display:inherit;
+        }
+	}
+
+      @media only screen and (min-width: 1024px){
+        .card{               
+             font-size: 14px;
+        }
+          .card-content i {
+            display:inherit;
+        }
+          .card-reveal i{
+            display:inherit;
+        }
+	}   

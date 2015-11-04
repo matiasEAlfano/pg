@@ -93,11 +93,7 @@
 	
 }
 
-#modal-register, #modal-register.modal-content{
-	max-height:90%;
-	height:90%;
-	
-}
+
 
 
 .modal, .modal.modal-fixed-footer{
@@ -122,6 +118,13 @@
 	width:100%;
 		
 }
+
+#modal-contact, #modal-contact.modal-content{
+	max-height:80%;
+	height:80%;  
+			
+}
+
 
 
 header, main, footer {
@@ -480,19 +483,48 @@ a{
 }
 
 .fixed-action-btn.btn-up{
-			bottom: 50px; right: 100px;
-		} 
+	bottom: 30px;
+    right: 10px;
+}
+
+
 
 .btn-floating.btn-super-large {
-    width: 100.5px;
-    height: 100.5px;
+/*    width: 80.5px;
+    height: 80.5px;*/
+    background-color: rgba(255, 255, 255, 0.74);
 }
 
 .btn-floating.btn-super-large i {
     width: inherit;
     display: inline-block;
     text-align: center;
-    color: #fff;
-    font-size: 4.6rem;
-    line-height: 60px;
+    color: #067804;
+    /*font-size: 5.6rem;
+    line-height: 60px;*/    
+}
+
+.activator {
+    cursor:pointer;
+}
+
+.modal-content i.material-icons{
+    font-size: 37px;
+    font-weight: 600;
+}
+
+.pagination li { 
+    font-size: 1rem;
+    padding: 0 10px;
+}
+
+
+
+.titulo-tabla {
+    color: darkcyan;
+    font-size: 30px;
+}
+
+.card .card-reveal {
+    padding: 10px;
 }

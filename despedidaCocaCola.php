@@ -32,25 +32,7 @@
 
 							</div>
 							<!-- ***** PUBLICIDAD ***** -->
-							<div class="col s2 m2 l2">
-								<div class="row">
-									<div class="col m12 l12">
-										<div>
-											  <div class="section table-of-contents center">
-												<a href="#" id="id-radio1" class="radio-online"><img src="publi/envivo.gif" style="width:100%" alt="" class="responsive-img"></a>									
-												<img src="publi/300x300-arba.gif" style="width:100%" alt="" class="responsive-img">
-												<img src="publi/gba.jpg" style="width:100%" alt="" class="responsive-img">
-												
-												<!--<img src="publi/mavi.gif" style="width:100%" alt="" class="responsive-img"> -->
-			                                    <!--<img src="publi/salvador.jpg" style="width:100%" alt="" class="responsive-img"> -->
-			                                     <!-- <img src="publi/911.jpg" style="width:80%" alt="" class="responsive-img">-->
-													
-											  </div>
-											
-										</div>
-									</div>
-							</div>
-						</div>
+							<?php require('rightcol.php')?>	
 					</div> <!-- fin row-->
 				
 					</div> <!-- fin col-s7-m7-l7-->

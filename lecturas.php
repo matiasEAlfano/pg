@@ -2,19 +2,17 @@
 
        <main>
     
-         	<div class="container-ppal" id="tabppal">
-		 
-				<div class="row">
-				
-                	<div class="col s12 m12 l12">
-					
-					<!-- ***** NOVEDADES ***** -->
-					<div id="novedades" class="row">
-						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Lecturas</h2>
-
-							<table class="centered highlight bordered responsive-table">
+         	  <div class="container-ppal" id="tabppal">
+		          <div class="row">
+                      <div class="col s12 m10">							
+                        
+							<table class="highlight centered bordered">
 						        <thead>
+                                <tr>
+						              <th></th>
+						              <th class="titulo-tabla">Lecturas</th>
+						              <th></th>
+						          </tr>
 						          <tr>
 						              <th data-field="id">N° Lectura</th>
 						              <th data-field="name">Nombre</th>
@@ -68,23 +66,29 @@
 						            <td><a href="./aprendamosdelaguila.php">Aprendamos del águila</a></td>
 						            <td>8762</td>
 						          </tr>
-						        </tbody>
-						      </table>						      
-							      <ul class="pagination centrado">
-								    <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+                                    
+                                    <tr>
+                                        <td></td>
+                                        <td>
+                                    <ul class="pagination">
+								    <li class="disabled"><a href="#!"><</a></li>
 								    <li class="active"><a href="#!">1</a></li>
 								    <li class="waves-effect"><a href="#!">2</a></li>
-								    <li class="waves-effect"><a href="#!">3</a></li>
-								    <li class="waves-effect"><a href="#!">4</a></li>
-								    <li class="waves-effect"><a href="#!">5</a></li>
-								    <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+								    <li class="waves-effect"><a href="#!">3</a></li>									    
+								    <li class="waves-effect"><a href="#!">></a></li>
 								  </ul>
-					</div> <!-- fin row-->
-				
-					</div> <!-- fin col-s7-m7-l7-->
-				 
-            	</div> <!-- fin row-del-container-ppal-->
-			</div> <!-- fin container-ppal-->
+                                            </td>
+                                        <td></td>
+                                    </tr>
+						        </tbody>
+                                 
+						      </table>	
+                            
+                      </div>  <!--fin-col-m10-->
+				    	<?php require('rightcol.php')?>		     
+                </div> <!-- fin-row -->
+           </div> <!--fin-container-ppal-->           
+			
         </main>
 
 

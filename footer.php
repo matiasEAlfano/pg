@@ -1,17 +1,25 @@
 <!-- ****** footer ****** -->
 	   <footer class="page-footer">
+           	<div class="fixed-action-btn btn-up hide-on-small-only">
+				<a id="back-to-top" class="btn-floating  btn-super-large">
+					<i class="large material-icons">keyboard_arrow_up
+					</i>
+				</a>		
+			</div>
+			
 			<div class="container">
 				<div class="row">
+				
 					<div class="col l4 s12">
 						<h5 class="white-text">Proyecto Geo</h5>
 						<p class="grey-text text-lighten-4">We hope you have enjoyed using Materialize! If you feel Materialize has helped you out and want to support the team, send us over a donation!</p>
 					
-						<button class="btn waves-effect waves-light blue lighten-3" type="submit" name="conoce" alt="Conoce - Mas">Conoce Mas</button>
+						<a class="modal-trigger btn waves-effect waves-light blue lighten-3" target="_blank" href="#modalLogin">Ingresar</a>
 					</div>
 					  <div class="col l4 s12">
 						<h5 class="white-text">Contactanos</h5>
 						<p class="grey-text text-lighten-4">We have a Gitter chat room set up where you can talk directly with us. Come in and discuss new features, future goals, general problems or questions.</p>
-						<a class="btn waves-effect waves-light blue lighten-3" target="_blank" href="#">Contactar</a>
+						<a class="modal-trigger btn waves-effect waves-light blue lighten-3" target="_blank" href="#modal-contact">Contactar</a>
 					</div>
 					<div class="col l4 s12" style="overflow: hidden;">
 						<h5 class="white-text">Redes Sociales</h5>

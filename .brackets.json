@@ -1,6 +1,8 @@
 {
     "jscodehints.detectedExclusions": [
         "/var/www/html/geo/geo12/js/init.js",
-        "/var/www/html/geo/js/scripts.js"
+        "/var/www/html/geo/js/scripts.js",
+        "/var/www/html/pg/js/prism.js",
+        "/var/www/html/pg/js/scripts.js"
     ]
 }

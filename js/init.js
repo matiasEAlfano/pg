@@ -64,10 +64,22 @@ $(function(){
     // Floating-Fixed table of contents
 
     if ($('nav').length) {
+        var navh = $('#nav-ppal').height()+$('.container-tit').height();
+        console.log(navh);
+        var bot = $('body').height() - $('.page-footer').height() - $(window).height();
+		var bodyh = $('body').height();
+		var pagefooterh = $('.page-footer').height();
+		var windowh = $(window).height();
+		
+		console.log("bot " + bot);
+	    console.log("body " +bodyh);
+		console.log("pagefooter " +pagefooterh);
+		console.log("window " + windowh);
+		
       $('.toc-wrapper').pushpin({
-	  top: $('nav').height(),
-	  bottom: 2500
-			  
+	  /*top: $('nav').height(),*/
+      top: navh,
+	  bottom: bot			  
 	  });	  
 	  
 	  
@@ -234,5 +246,14 @@ $(function(){
 	
   );
   */
+
+
+(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
 
 });

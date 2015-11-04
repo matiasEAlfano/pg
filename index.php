@@ -1,12 +1,11 @@
-<?php require('header.php')?>
+
+ <?php require('header.php')?>
+
 
         <main>
     
          <div class="container-ppal" id="tabppal">
-		 
-		
-		
-			<div class="row">
+		 <div class="row">
 				
 				<div class="col s6 m3 l3 col-izq">
                     <div class="row">
@@ -225,12 +224,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Noticias</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
-								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Noticias<i class="material-icons right">close</i></span>
+								<div class="card-reveal">      
+                                    <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Noticias</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -241,12 +241,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Viejos son los trapos.</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Viejos son los trapos.<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Viejos son los trapos</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -257,12 +258,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Lecturas.</span>
-								  <p><a href="lecturas.php">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="lecturas.php">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Lecturas<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Lecturas</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <br><br><p><a href="lecturas.php">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <br><br><p><a href="lecturas.php">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -287,12 +289,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Exóticas</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -303,12 +306,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Especies protegidas.</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -319,12 +323,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Aves</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -350,12 +355,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Energia</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								 <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -366,12 +372,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Agua</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -382,12 +389,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Biotécnica</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -412,12 +420,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Reciclado</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -428,12 +437,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Ecologia</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -444,12 +454,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Botánico</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -474,12 +485,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Paises</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -490,12 +502,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">El espacio</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -506,12 +519,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Planetarios</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -536,12 +550,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Mi perro y yo</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -552,12 +567,13 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Zoo Virtual</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
@@ -568,51 +584,31 @@
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Mi gato y yo</span>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a><i class="activator material-icons right">more_vert</i></p>
 								</div>
 								<div class="card-reveal">
-								  <span class="card-title grey-text text-darken-4">Zoo Virtual<i class="material-icons right">close</i></span>
+								  <span class="right card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+                                    <span class="card-title grey-text text-darken-4">Zoo Virtual</span>
 								  <p>Te invitamos a recorrer el maravilloso mundo del Reino Animal. Desde la más grande a la más pequeña, conocerás todas las especies que habitan nuestro Planeta.</p>
-								  <p><a href="#">Entrar</a><i class="material-icons right">more_vert</i></p>
+								  <p><a href="#">Entrar</a></p>
 								</div>
 							</div>
 						</div> <!-- fin col-->
 					</div> <!-- fin row-->
 				
 				</div> <!-- fin col-s7-m7-l7-->
-				
-				<div class="col m2 l2 hide-on-small-only col-der">
-                    <div class="row">
-						<div class="col m12 l12">
-							<div class="toc-wrapper">
-								
-								
-								  <div class="section table-of-contents center">
-									<a id="id-radio1" class="radio-online"><img src="publi/envivo.gif" style="width:100%" alt="" class="responsive-img"></a>									
-									<img src="publi/300x300-arba.gif" style="width:100%" alt="" class="responsive-img">
-									<img src="publi/gba.jpg" style="width:100%" alt="" class="responsive-img">
-									
-									<!--<img src="publi/mavi.gif" style="width:100%" alt="" class="responsive-img"> -->
-                                    <!--<img src="publi/salvador.jpg" style="width:100%" alt="" class="responsive-img"> -->
-                                     <!-- <img src="publi/911.jpg" style="width:80%" alt="" class="responsive-img">-->
-										
-								  </div>
-								
-							</div>
-						</div>
-					</div>
-				</div>
+			 <!-- ***** PUBLICIDAD ***** -->
+             <?php require('rightcol.php')?>
 				 
             </div> <!-- fin row-del-container-ppal-->
 			
-			<div class="fixed-action-btn btn-up hide-on-small-only">
-				<a href="index.php#" class="btn-floating  btn-super-large blue darken-4">
-					<i class="large material-icons">keyboard_arrow_up
-					</i>
-				</a>		
-			</div>
+		
             
 		</div> <!-- fin container-ppal-->
         </main>
        
 	   <?php require('footer.php')?>
+
+
+
+
