@@ -8217,6 +8217,9 @@ nav ul li:hover, nav ul li.active {
 .header {
   color: #ee6e73;
   font-weight: 300; }
+ .header.header-contenido{
+     font-weight: 600; 
+ }
 
 .caption {
   font-size: 1.25rem;

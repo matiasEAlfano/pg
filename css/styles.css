@@ -4,6 +4,30 @@
 #id-radio1{
 	width:100%; padding-left:0; margin-bottom:50px;
 }
+
+.col-izq h6{
+	font-weight:bold;
+	font-size: 1.1rem;
+	
+}
+
+.col-izq img{
+	box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
+}
+
+
+.col-izq .row{
+	box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
+	background-color:#C6D8E7;
+	padding-top:25px;
+}
+
+.col-izq .row.lo-ultimo{
+	background-color: #54041A; 
+	margin-top: 30px;
+	padding-top:0;
+}
+
 .col-izq .divider{
 	margin-bottom:20px;
 }
@@ -266,6 +290,28 @@ background-position:center;
 	width:95%;
 }
 
+.slider .slides{
+cursor:pointer;
+}
+
+
+.slider img  {
+	opacity:0.85;
+	
+}
+
+.slider img:hover  {
+	opacity:1;	
+}
+
+
+.slider .caption  {
+	background-color:rgba(1, 27, 13, 0.42);
+	padding:15px;
+	box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
+}
+
+
 .container-ppal .col.col-slider{
 	padding:0;
 	margin-top:30px;
@@ -362,7 +408,7 @@ nav .hide-on-med-and-down img{
 
 .container-tit{
 	padding:1px;
-	/*padding-top:10px;*/
+	padding-top:40px;
 }
 
 .container-tit img{
@@ -424,16 +470,6 @@ footer.page-footer {
 .toc-wrapper.pin-top{
 	/*margin-top:14px;*/
 }
-/*cambios*/
-.pagination.centrado{
-
-	margin-left: 40%;
-	
-}
-p, .conMargen{
-	margin-left: 3%;
-    margin-right: 5%;
-}
 
 .card .card-content{
 	padding:10px;
@@ -447,7 +483,7 @@ p, .conMargen{
 a{
 	cursor:pointer;
 }
-
+/*
 #novedades{
 	background-color:rgba(84, 3, 7, 0.39);
 }
@@ -466,7 +502,7 @@ a{
 #multimedia{
 	background-color:rgba(11, 60, 13, 0.3);
 }
-
+*/
 .card .card-content .card-title {
     line-height: 30px;
 }
@@ -527,4 +563,70 @@ a{
 
 .card .card-reveal {
     padding: 10px;
+}
+
+div.container-cards {
+    position:relative;
+    z-index:1;   
+    margin:0 auto;
+    color:#fcfcfc;
+    background:#000;
+}
+
+
+div.container-cards:before {
+    content:"";
+    position:absolute;
+    z-index:-1;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;    
+    opacity:0.2;
+}
+
+div.container-cards:hover:before {
+    opacity:0.7;
+}
+
+#novedades:before{
+    background:url('../img/novedades.jpg') no-repeat;
+    background-size:cover;
+}
+
+#especies:before{
+    background:url('../img/especies.jpg') no-repeat;
+    background-size:cover;
+}
+
+#recursos:before{
+    background:url('../img/recursos.jpg') no-repeat;
+    background-size:cover;
+}
+
+#medioambiente:before{
+    background:url('../img/medioambiente.jpg') no-repeat;
+    background-size:cover;
+}
+
+#planeta:before{
+    background:url('../img/planeta.jpg') no-repeat;
+    background-size:cover;
+}
+
+#multimedia:before{
+    background:url('../img/multimedia.jpg') no-repeat;
+    background-size:cover;
+}
+
+
+
+.materialboxed.img-nota {
+    padding-left: 50px;
+    padding-right:50px;
+    padding-bottom:20px;
+}
+
+.caption.caption-nota{ 
+    text-align: justify;
 }

@@ -1,9 +1,9 @@
  <!DOCTYPE html>
   <html>
-    <head>
+    <head>      
+	  <link type="text/css" href="css/graph.css" rel="stylesheet"> 
       <link href="css/materialIcons.css" rel="stylesheet">
       <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/> 
-	  <link type="text/css" href="css/graph.css" rel="stylesheet"> 
 	  <link type="text/css" href="css/materialdesignicons.min.css" rel="stylesheet">
       <link type="text/css" href="css/styles.css" rel="stylesheet">
 	  <link type="text/css" href="css/media.css" rel="stylesheet">	  

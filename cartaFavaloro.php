@@ -1,23 +1,53 @@
 <?php require('header.php')?>
 
-       <main>
-           
-      
+<main>
     
-         	<div class="container-ppal" id="tabppal">
-		 
-				<div class="row">
-				
-                	<div class="col s12 m12 l12">
-					
-					<!-- ***** NOVEDADES ***** -->
-					<div id="novedades" class="row">
-						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="header header-card">Lectura: Carta póstuma de René Favoloro.</h2>
-							<div class="col s10 m10 l10">
-								<p class="conMargen">
-									Si se lee mi carta de renuncia a la Cleveland Clinic, está claro que mi regreso a la Argentina (después de haber alcanzado un lugar destacado en la cirugía cardiovascular) se debió a mi eterno compromiso con mi patria. Nunca perdí mis raíces. Volví para trabajar en docencia, investigación y asistencia médica. La primera etapa en el Sanatorio Güemes, demostró que inmediatamente organizamos la residencia en cardiología y cirugía cardiovascular, además de cursos de post grado a todos los niveles. 
-									Le dimos importancia también a la investigación clínica en donde participaron la mayoría de los miembros de nuestro grupo.
+    
+	   <div class="row">
+            <div class="col s4 m3 l3">
+                 <div class="row">
+                      <div class="col s12">
+                        <h2 class="flow-text header">Estas Leyendo</h2>
+                        <ul class="collection">
+                          <li class="collection-item avatar">
+                            <img src="img/cartafavaloro.jpg" alt="" class="circle">
+                            <span class="title">Carta de Favaloro</span>
+                            <p>Carta póstuma de René Favoloro</p>
+                            <a class="secondary-content"><i class="material-icons">send</i></a>
+                          </li>                           
+                        </ul>
+                       </div> <!-- fin col s12 -->
+                </div> <!-- fin class="row" -->
+                <div class="row">
+                      <div class="col s12">
+                        <h2 class="flow-text header">Otras Lecturas</h2>
+                        <ul class="collection">
+                          <li class="collection-item avatar">
+                            <img src="img/aprendamos.jpg" alt="" class="circle">
+                            <span class="title">Aprendamos del Águila</span>
+                            <p>El águila es el ave más longeva...</p>
+                            <a href="aprendamosdelaguila.php" class="secondary-content"><i class="material-icons">speaker_notes</i></a>
+                          </li>
+                            <li class="collection-item avatar">
+                            <img src="img/cocacola.jpg" alt="" class="circle">
+                            <span class="title">Despedida Coca Cola</span>
+                            <p>Despedida del presidente de Coca Cola</p>
+                            <a href="despedidaCocaCola.php" class="secondary-content"><i class="material-icons">speaker_notes</i></a>
+                          </li>
+                          
+                        </ul>
+                       </div> <!-- fin col s12 -->
+               </div> <!-- fin class="row" -->
+           </div> <!-- class="col s4 m3 l3" -->
+                      
+           <div class="col s8 m7 l7">
+               
+                    <h2 class="flow-text header header-contenido center">Lectura: Carta póstuma de René Favoloro.</h2>
+               <p class="caption caption-nota">Si se lee mi carta de renuncia a la Cleveland Clinic, está claro que mi regreso a la Argentina (después de haber alcanzado un lugar destacado en la cirugía cardiovascular) se debió a mi eterno compromiso con mi patria. Nunca perdí mis raíces. Volví para trabajar en docencia, investigación y asistencia médica. La primera etapa en el Sanatorio Güemes, demostró que inmediatamente organizamos la residencia en cardiología y cirugía cardiovascular, además de cursos de post grado a todos los niveles. 
+					 </p>               
+                   <img class="materialboxed img-nota" data-caption="Nunca permití que se tocara un solo peso de los que no nos correspondía" width="100%" src="img/cartafavaloro.jpg">
+                    <p class="caption caption-nota">				
+                   Le dimos importancia también a la investigación clínica en donde participaron la mayoría de los miembros de nuestro grupo.
 									En lo asistencial exigimos de entrada un número de camas para los indigentes. Así, cientos de pacientes fueron operados sin cargo alguno. La mayoría de nuestros pacientes provenían de las obras sociales. El sanatorio tenía contrato con las más importantes de aquel entonces. 
 									a relación con el sanatorio fue muy clara: los honorarios, provinieran de donde provinieran, eran de nosotros; la internación, del sanatorio (sin duda la mayor tajada).
 									Nosotros con los honorarios pagamos las residencias y las secretarias y nuestras entradas se distribuían entre los médicos proporcionalmente.
@@ -102,23 +132,23 @@
 									<br>
 									Queda terminantemente prohibido realizar ceremonias religiosas o civiles.
 									<br>Un abrazo a todos
-									<br>René Favaloro 
-								</p>
-								<div id="volverALecturas" class="row" style="margin-left:30%;margin-top:5%;">
-								<a class="waves-effect waves-light btn-large" href="./lecturas.php">Volver a lecturas</a>
-								</div>
-								<div class="fb-comments centrado" data-href="http://developers.facebook.com/docs/plugins/comments/" data-numposts="5" style="margin-left:30%; margin-top:2%"></div>
+                        <br>René Favaloro</p>
+				    <div id="volverALecturas" class="row center">
+                        <div class="col s12" style="margin-bottom:35px";>
+                        <a class="waves-effect waves-light btn-large" href="./lecturas.php">Volver a lecturas</a>
+                        </div> <!-- fin class="col s12" -->
+                        <div class="col s12">
+                            <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-numposts="5">
+                            </div>
+                        </div>  <!-- fin class="col s12" -->
+                    </div> <!-- fin id="volverALecturas" class="row" -->
+				</div> <!-- fin-class="col s8 m7 l7" -->
+                <!-- ***** PUBLICIDAD ***** -->
+                <?php require('rightcol.php')?>	
+            </div> <!-- fin row-->
 
-							</div>
-							<!-- ***** PUBLICIDAD ***** -->
-							<?php require('rightcol.php')?>	
-					</div> <!-- fin row-->
-				
-					</div> <!-- fin col-s7-m7-l7-->
-				 
-            	</div> <!-- fin row-del-container-ppal-->
-			</div> <!-- fin container-ppal-->
-        </main>
+
+</main>
 
 
 <?php require('footer.php')?>
