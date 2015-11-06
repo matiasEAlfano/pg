@@ -118,7 +118,7 @@
 						<div class="col s12 m6 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
-								  <img class="activator" src="img/zooVirtual.jpg">
+								  <img class="activator" src="img/zoovirtual.jpg">
 								</div>
 								<div class="card-content">
 								  <span class="card-title activator grey-text text-darken-4">Zoo Virtual</span>
