@@ -216,7 +216,7 @@
                 <div class="container-cards" id="novedades">
 					<div class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="flow-text header header-card">Novedades</h2>
+							<h2 class="flow-text header header-card">Novedades <a href="novedades.php"><h6>Ver mas</h6></a></h2>
 						</div> <!-- fin col-->
 						<div class="col s12 m6 l4">
 							<div class="card">
@@ -283,7 +283,7 @@
                 <div class="container-cards" id="especies">
 					<div class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="flow-text header header-card">Especies</h2>
+							<h2 class="flow-text header header-card">Especies <a href="especies.php"><h6>Ver mas</h6></a></h2>
 						</div> <!-- fin col-->
 						<div class="col s12 m6 l4">
 							<div class="card">
@@ -350,7 +350,7 @@
 				<div class="container-cards" id="recursos">
                     <div class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="flow-text header header-card">Recursos Naturales</h2>
+							<h2 class="flow-text header header-card">Recursos Naturales <a href="recursosNaturales.php"><h6>Ver mas</h6></a></h2>
 						</div> <!-- fin col-->
 						<div class="col s12 m6 l4">
 							<div class="card">
@@ -416,7 +416,7 @@
 				<div class="container-cards" id="medioambiente">
                     <div class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="flow-text header header-card">Medio Ambiente</h2>
+							<h2 class="flow-text header header-card">Medio Ambiente <a href="medioAmbiente.php"><h6>Ver mas</h6></a></h2>
 						</div> <!-- fin col-->
 						<div class="col s12 m6 l4">
 							<div class="card">
@@ -482,7 +482,7 @@
 				<div class="container-cards" id="planeta">
                     <div class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="flow-text header header-card">Planeta</h2>
+							<h2 class="flow-text header header-card">Planeta <a href="planeta.php"><h6>Ver mas</h6></a></h2>
 						</div> <!-- fin col-->
 						<div class="col s12 m6 l4">
 							<div class="card">
@@ -548,7 +548,7 @@
 				<div class="container-cards" id="multimedia">
                     <div class="row row-cards">
 						<div class="col s12 m12 l12 row-cards-titulo">
-							<h2 class="flow-text header header-card">Multimedia</h2>
+							<h2 class="flow-text header header-card">Multimedia <a href="multimedia.php"><h6>Ver mas</h6></a></h2>
 						</div> <!-- fin col-->
 						<div class="col s12 m6 l4">
 							<div class="card">
