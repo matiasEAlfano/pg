@@ -13,6 +13,8 @@
 						<div class="col s12 m12 l12 row-cards-titulo">
 							<h2 class="flow-text header">Especies</h2>
 						</div> <!-- fin col-->
+						
+					<div class="row">
 						<div class="col s12 m6 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
@@ -64,6 +66,9 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
+						
+					</div>
+					<div class="row">	
 						<div class="col s12 m6 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
@@ -115,6 +120,8 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
+					</div>	
+					<div class="row">
 						<div class="col s12 m6 l4">
 							<div class="card">
 								<div class="card-image waves-effect waves-block waves-light">
@@ -149,6 +156,7 @@
 								</div>
 							</div>
 						</div> <!-- fin col-->
+					</div>
 					</div> <!-- fin row-->
 				</div> <!-- fin container-cards -->
 
